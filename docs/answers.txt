@@ -19,3 +19,5 @@ H) git log --grep="file"
 I) Inheritance is when a class "inherits" some properties (i.e., variables, function names) from another class.
    Polymorphism having the same function call handled differently for inherited classes.
    Encapsulation is bundling variables and functions together into a class.
+
+7) This project uses polymorphism in the hit function, by having it behave differently for each of the inherited classes.
