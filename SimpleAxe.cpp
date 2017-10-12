@@ -1,13 +1,5 @@
 #include "SimpleAxe.h"
 
-
-
-SimpleAxe::SimpleAxe()
-{
-	hitPoints = 60;
-}
-
-
 double SimpleAxe::hit(double armor) {
 	if (armor < 20) { armor = 0; }
 	double damage = hitPoints - (armor);
