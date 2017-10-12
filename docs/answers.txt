@@ -1,0 +1,21 @@
+A) [master 27382ba] status.txt has been updated with the output from git status.
+ 1 file changed, 11 insertions(+)
+
+B) 5. git log.
+
+C) Wed Sep 27 16:31:42 2017. git log .gitignore
+
+D) 36a8e55 and cb30d72
+
+E) To experiment with some code that you might not want to keep, or to let developers have their own individual version of
+the project so they don't interfere with each other.
+
+F) git status shows what has been changed recently. git log shows the history of the project.
+
+G) git log Weapon.h
+
+H) git log --grep="file"
+
+I) Inheritance is when a class "inherits" some properties (i.e., variables, function names) from another class.
+   Polymorphism having the same function call handled differently for inherited classes.
+   Encapsulation is bundling variables and functions together into a class.
