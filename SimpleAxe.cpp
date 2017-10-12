@@ -4,6 +4,7 @@
 
 SimpleAxe::SimpleAxe()
 {
+	hitPoints = 60;
 }
 
 
