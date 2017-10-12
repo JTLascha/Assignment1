@@ -4,7 +4,7 @@
 // enemy's armor, and it will not hurt enemies with armor less than 10
 
 double Usurper::hit(double armor) {
-	int damage = 0;
+	int damage = 1;
 	if (armor > 10) { damage = armor; }
 	return damage;
 }
